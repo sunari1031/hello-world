@@ -1,2 +1,3 @@
 # hello-world
-for test
+
+I made this repository for fun.
